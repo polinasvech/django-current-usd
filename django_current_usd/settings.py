@@ -82,4 +82,4 @@ STATIC_URL = "static/"
 # Default primary key field type
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
-API_KEY = "FIDfv2xXnaNCSBvfyi04ASM3foFN6f42"
+API_KEY = "<API_KEY>"
